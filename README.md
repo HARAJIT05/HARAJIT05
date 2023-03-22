@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **harajithub@gmail.com**
+- 📫 How to reach me **harajit@thisisreven.tech**
 
 - ⚡ Fun fact **127.0.0.1 is the best place in the universe**
 
