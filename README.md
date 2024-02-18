@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HARAJIT</h1>
 <p align="center">
   <a href="https://github.com/HARAJIT05">
-    <img src="dio-jojo.gif" width="200px" height="150px" align="center" />
+    <img src="ldr.gif" width="200px" height="150px" align="center" />
   </a>
 </p>
 <h3 align="center">A passionate developer from India</h3>
