@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Anime**
 
-- 📫 How to reach me **mail@harajitis.live**
+- 📫 How to reach me **harajithub@gmail.com**
 
 - ⚡ Fun fact **127.0.0.1 SWEET LOCALHOST**
 
