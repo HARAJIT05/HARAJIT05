@@ -77,9 +77,9 @@
 </p>
 
 ## 🎧 Spotify
-<p align="center">
+<p align="left">
   <a href="https://open.spotify.com/user/yhukg33ogtc9869hrnf2a04d5">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=yhukg33ogtc9869hrnf2a04d5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=yhukg33ogtc9869hrnf2a04d5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
   </a>
 <br>
 </p>
