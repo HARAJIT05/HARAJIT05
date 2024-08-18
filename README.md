@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 ## 🗣️ Ask Me About
-- 💬 Ask me about **Anime**
+- 💬 Ask me about **Android Rooting/Jailbreaking**
 
 ## 📫 Contact
 - 📫 How to reach me **harajithub@gmail.com**
