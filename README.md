@@ -16,7 +16,7 @@
 - 📫 How to reach me **harajithub@gmail.com**
 
 ## ⚡ Fun Fact
-- ⚡ Fun fact **Wi-Fi doesn't actually stand for anything. It was simply a catchy name invented by a marketing firm.**
+- ⚡ Fun fact **Wi-Fi does not actually stand for anything. It was simply a catchy name invented by a marketing firm.**
 
 ## 🔗 Connect With Me
 <h3 align="left">Connect with me:</h3>
