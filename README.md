@@ -76,20 +76,5 @@
   </a> 
 </p>
 
-## 🎧 Spotify
-<p align="left">
-  <a href="https://open.spotify.com/user/yhukg33ogtc9869hrnf2a04d5">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=yhukg33ogtc9869hrnf2a04d5&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=d232bd&bar_color_cover=false">
-    <a href="https://open.spotify.com/user/yhukg33ogtc9869hrnf2a04d5">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=yhukg33ogtc9869hrnf2a04d5&limit=3&hide_playing=1" alt="Data Card for Spotify">
-</a>
-  </a>
-<br>
-</p>
-
-## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Harajit05&show_icons=true&theme=synthwave&hide_border=true" alt="harajit05" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harajit05&&theme=synthwave&hide_border=true" alt="harajit05" /></p>
-
 ## 🐍 Contribution Snake
 <a href="https://github.com/HARAJIT05"><img alt="Snake Gif" src="https://raw.githubusercontent.com/HARAJIT05/HARAJIT05/output/github-contribution-grid-snake-dark.svg"/></a>
